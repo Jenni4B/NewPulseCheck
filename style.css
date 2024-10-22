@@ -1,9 +1,12 @@
 
 .image{
     width: 300px;
-    height: auto;
+    height: 200px;
+    margin: 5px;
 }
 
 .container{
     border: solid black 1px;
+    margin: 20%;
 }
+
